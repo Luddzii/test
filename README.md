@@ -1,3 +1,3 @@
 # hello-world
 just another repository
-I like playing the piano and violin.
+I like playing the piano and violin!
